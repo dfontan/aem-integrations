@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:cloudservicename="testandtarget"
+        cq:designPath="/etc/designs/cloudservices/framework-design"
+        cq:lastModified="{Date}2017-02-18T06:21:35.664+11:00"
+        cq:lastModifiedBy="admin"
+        cq:template="/libs/cq/analytics/templates/tntframework"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="summit2017-target-framework"
+        sling:resourceType="cq/analytics/components/cbframework">
+        <public jcr:primaryType="nt:unstructured">
+            <mappings
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="cq/analytics/components/mappings/maparsys">
+                <cq_personalization_components_contextstores_profiledata/>
+            </mappings>
+        </public>
+    </jcr:content>
+</jcr:root>

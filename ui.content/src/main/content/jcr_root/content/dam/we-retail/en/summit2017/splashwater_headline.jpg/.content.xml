@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:psAux="http://ns.adobe.com/exif/1.0/aux/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:lockable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="702bd6b4-b47a-4769-a7c9-3221d7002f07">
+    <jcr:content
+        cq:name="Splashwater_headline.jpg"
+        cq:parentPath="/content/dam/summitaemintegrationlab"
+        dam:assetID="aaid:b30cc50860874c19a580cb6030631f2b"
+        dam:relativePath="summitaemintegrationlab/Splashwater_headline.jpg"
+        jcr:lastModified="{Date}2016-01-29T20:49:59.274+01:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            cq:tags="[]"
+            dam:Bitsperpixel="{Long}24"
+            dam:DigitalZoomRatio="{Long}1"
+            dam:extracted="{Date}2016-01-21T20:38:54.216+01:00"
+            dam:Fileformat="JPEG"
+            dam:GainControl="{Long}0"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}1.2866666316986084"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}3.0866665840148926"
+            dam:Progressive="no"
+            dam:sha1="8ec71d417d938deb0799a679af60765602e5756f"
+            dam:size="{Long}94140"
+            dam:SubjectDistanceRange="{Long}0"
+            dam:SubSecTime="{Long}60"
+            dam:TimeCreated="131113+0200"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2016-01-21T20:38:54.551+01:00"
+            dc:subject="[water,waterdrop,drop,macro,droplet,droplets,wave,white,drops,falling,flow,flowing,abstract,aqua,background,beauty,blue,bright,bubble,circle,clean,clear,closeup,color,concept,corona,crown,drip,freshness,liquid,motion,nature,nobody,purity,rain,raindrop,reflection,splash,splashes,splashing,spray,stream,transparent]"
+            exif:ApertureValue="5310704/1000000 (5.311)"
+            exif:ColorSpace="{Long}1"
+            exif:Contrast="{Long}0"
+            exif:CustomRendered="{Long}0"
+            exif:DateTimeDigitized="{Date}2013-09-09T13:11:13.000+02:00"
+            exif:DateTimeOriginal="{Date}2013-09-09T13:11:13.000+02:00"
+            exif:ExifOffset="{Long}388"
+            exif:ExposureCompensation="1/3 (0.333)"
+            exif:ExposureMode="{Long}1"
+            exif:ExposureProgram="{Long}1"
+            exif:ExposureTime="1/250 (0.004)"
+            exif:Flash="{Long}15"
+            exif:FNumber="63/10 (6.3)"
+            exif:FocalLength="105"
+            exif:FocalLengthIn35mmFormat="{Long}105"
+            exif:GPSInfo="{Long}940"
+            exif:LightSource="{Long}0"
+            exif:MaxApertureValue="13073/3463 (3.775)"
+            exif:MeteringMode="{Long}5"
+            exif:PixelXDimension="{Long}926"
+            exif:PixelYDimension="{Long}386"
+            exif:Saturation="{Long}0"
+            exif:SceneCaptureType="{Long}0"
+            exif:SensingMethod="{Long}2"
+            exif:Sharpness="{Long}1"
+            exif:ShutterSpeedValue="7965784/1000000 (7.966)"
+            exif:WhiteBalance="{Long}0"
+            jcr:lastModified="{Date}2016-01-29T18:08:29.577+01:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            jcr:title="Splash water"
+            photoshop:ColorMode="{Long}3"
+            photoshop:Country="Russian Federation"
+            photoshop:Credit="Anton Maltsev - Fotolia"
+            photoshop:DateCreated="{Date}2013-09-09T13:11:13.006+02:00"
+            photoshop:ICCProfile="sRGB IEC61966-2.1"
+            photoshop:LegacyIPTCDigest="16A05F000198E1CFD5D1B96FCF02EBBD"
+            photoshop:Source="56349902"
+            psAux:ISO="{Long}100"
+            tiff:ImageLength="{Long}386"
+            tiff:ImageWidth="{Long}926"
+            tiff:Make="NIKON CORPORATION"
+            tiff:Model="NIKON D800"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ReferenceBlackWhite="\[Lorg.apache.commons.imaging.common.RationalNumber;@57f791e7"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="300"
+            tiff:YCbCrPositioning="{Long}1"
+            tiff:YCbCrSubSampling="{Long}1"
+            tiff:YResolution="300"
+            xmp:CreateDate="{Date}2013-09-09T13:11:13.000+02:00"
+            xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
+            xmp:MetadataDate="{Date}2016-01-29T20:49:54.000+01:00"
+            xmp:ModifyDate="{Date}2016-01-29T20:49:54.000+01:00"
+            xmpMM:DocumentID="adobe:docid:photoshop:c7daf511-074f-1179-96f4-e2547158ee50"
+            xmpMM:InstanceID="xmp.iid:a4ea64ff-ee1c-44aa-9855-d3cdc8e2ae1a"
+            xmpMM:OriginalDocumentID="E03050F64C7AA89FFB1C0079C4005E2D"
+            xmpRights:Marked="{Boolean}false"
+            writebackEnable="{Boolean}true">
+            <dc:date
+                jcr:primaryType="nt:unstructured"
+                _x0031_="{Date}9998-11-30T00:00:00.000+01:00"
+                _x0032_="{Date}9998-11-30T00:00:00.000+01:00"
+                _x0033_="{Date}9998-11-30T00:00:00.000+01:00"
+                xmpArraySize="{Long}3"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray"/>
+            <photoshop:TextLayers
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}1"
+                xmpArrayType="rdf:Bag"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    photoshop:LayerName="Every drop counts"
+                    photoshop:LayerText="Every drop counts"
+                    xmpNodeType="xmpStruct"/>
+            </photoshop:TextLayers>
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}2"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:6fca6458-0a9e-452c-b445-665651a2c1f8"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2016-01-15T20:19:30.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:a4ea64ff-ee1c-44aa-9855-d3cdc8e2ae1a"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2016-01-29T20:49:54.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+            <tiff:BitsPerSample
+                jcr:primaryType="nt:unstructured"
+                _x0031_="{Long}8"
+                _x0032_="{Long}8"
+                _x0033_="{Long}8"
+                xmpArraySize="{Long}3"
+                xmpArrayType="rdf:Bag"
+                xmpNodeType="xmpArray"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+        <usages
+            dam:score="{Long}6"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[aem]">
+            <aem
+                jcr:primaryType="nt:unstructured"
+                count="{Long}6"
+                lastUsed="{Date}2016-01-29T20:52:18.859+01:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>

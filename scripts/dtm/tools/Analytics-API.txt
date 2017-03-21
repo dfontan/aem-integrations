@@ -1,0 +1,3 @@
+User:               summitlabuser2017@adobe.com:aemlabsummit2017
+Secret:             a140a3a883594335536cb317b218f1dd
+Tracking Server:    aemlabsummit2017.or1.sc.omtrdc.net

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="414bc9a0-f392-4e5a-a1ca-97261eb943bd">
+    <jcr:content
+        cq:name="Drycrackedearthbackgroundclaydeserttexture.jpg"
+        cq:parentPath="/content/dam/summitaemintegrationlab"
+        dam:assetID="aaid:9255e013a7e74be68db772f49f56d8af"
+        dam:relativePath="summitaemintegrationlab/Drycrackedearthbackgroundclaydeserttexture.jpg"
+        jcr:lastModified="{Date}2016-01-29T18:08:30.632+01:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            cq:tags="[]"
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2016-01-21T20:38:54.294+01:00"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}1.2866666316986084"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}3.0866665840148926"
+            dam:Progressive="no"
+            dam:sha1="20c9eee777d05f50f377bdd6316898bfd4f60830"
+            dam:size="{Long}234257"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2016-01-21T20:38:54.343+01:00"
+            dc:subject="[dry,earth,desert,texture,clay,drought,barren,background,environment,arid,nature,pattern,ground,climate,dirt,soil,surface,broken,land,mud terrain,global,hot,split,disaster,erosion,natural,closeup,sand,dirty]"
+            exif:ColorSpace="{Long}-1"
+            exif:DateTimeDigitized="{Date}2015-07-20T14:33:50.000+02:00"
+            exif:ExifOffset="{Long}356"
+            exif:PixelXDimension="{Long}926"
+            exif:PixelYDimension="{Long}386"
+            jcr:lastModified="{Date}2016-01-29T18:08:28.055+01:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            jcr:title="Dry cracked earth background, clay desert texture"
+            photoshop:ColorMode="{Long}3"
+            photoshop:Country="Taiwan"
+            photoshop:Credit="wayne_0216 - Fotolia"
+            photoshop:Headline="Dry cracked earth background, clay desert texture"
+            photoshop:History="HASH(0x123a1f8), HASH(0x180d188), HASH(0xf23790)"
+            photoshop:LegacyIPTCDigest="C4FB070D0AEB2C86BAF3C06C2176504D"
+            photoshop:Source="87427497"
+            tiff:ImageLength="{Long}386"
+            tiff:ImageWidth="{Long}926"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="300"
+            tiff:YCbCrPositioning="{Long}1"
+            tiff:YCbCrSubSampling="{Long}1"
+            tiff:YResolution="300"
+            xmp:CreateDate="{Date}2015-07-20T14:33:50.000+02:00"
+            xmp:MetadataDate="{Date}2016-01-15T20:20:18.000+01:00"
+            xmp:ModifyDate="{Date}2016-01-15T20:20:18.000+01:00"
+            xmpMM:DocumentID="adobe:docid:photoshop:6ab3c48f-fc4b-1178-969e-b066d833842a"
+            xmpMM:InstanceID="xmp.iid:fa94508d-d129-4681-b116-a6ba8a8cc454"
+            xmpMM:OriginalDocumentID="xmp.did:EE1BB5B50E206811822ADDF1B4D3F642"
+            writebackEnable="{Boolean}true">
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}5"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="created"
+                    stEvt:instanceID="xmp.iid:EE1BB5B50E206811822ADDF1B4D3F642"
+                    stEvt:softwareAgent="Adobe Photoshop CS6 (Macintosh)"
+                    stEvt:when="{Date}2015-07-20T14:33:50.000+08:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/metadata"
+                    stEvt:instanceID="xmp.iid:B035367607206811822ABB8A0607A031"
+                    stEvt:softwareAgent="Adobe Photoshop Camera Raw 8.7"
+                    stEvt:when="{Date}2015-07-20T14:37:32.000+08:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0033_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/metadata"
+                    stEvt:instanceID="xmp.iid:5e3d23e4-9ff7-4c73-824b-36eb507485c2"
+                    stEvt:softwareAgent="Adobe Photoshop Camera Raw 8.7.1 (Macintosh)"
+                    stEvt:when="{Date}2015-07-20T14:37:32.000+08:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0034_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:fa2a0df1-ae95-47fe-9a6f-f2840395fac8"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2016-01-15T20:20:18.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0035_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:fa94508d-d129-4681-b116-a6ba8a8cc454"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2016-01-15T20:20:18.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+            <tiff:BitsPerSample
+                jcr:primaryType="nt:unstructured"
+                _x0031_="{Long}8"
+                _x0032_="{Long}8"
+                _x0033_="{Long}8"
+                xmpArraySize="{Long}3"
+                xmpArrayType="rdf:Bag"
+                xmpNodeType="xmpArray"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+        <usages
+            dam:score="{Long}2"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[aem]">
+            <aem
+                jcr:primaryType="nt:unstructured"
+                count="{Long}2"
+                lastUsed="{Date}2016-01-21T20:52:16.844+01:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>

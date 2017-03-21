@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:authorExternalId="{Long}2"
+        cq:lastModified="{Date}2017-02-18T07:34:04.995+11:00"
+        cq:lastModifiedBy="admin"
+        cq:segments="[/etc/segmentation/adobe-target/aemlabsummit2017/1142857]"
+        cq:template="/libs/cq/personalization/templates/experience"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Big Donor"
+        jcr:uuid="96afd067-23f1-455f-8ba8-7b3ef5dc929b"
+        sling:resourceType="cq/personalization/components/experiencepage"/>
+    <make-a-donation-image/>
+    <make-a-donation-donate/>
+</jcr:root>

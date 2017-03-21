@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:cloudservicename="testandtarget"
+        cq:lastModifiedBy="admin"
+        cq:template="/libs/cq/analytics/templates/testandtarget"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="summit2017-target-config"
+        sling:resourceType="cq/analytics/components/testandtargetpage"
+        accountOptions="\{0f97d8dc089be165371b4b076af74bfcd920f72bd67844a2e2495fae34292f314c81bb523e6230267d0d75cf2065163edc0b8e0e8ad50b953e0144eb2acec2fe9aa689e01de53acb3f8fda7477cf026791263cb46c5d3ebb5744222693f7f68f145e0c86773eff6fba90bfed4026485ce83d0b7ac56149de639ca7d04360e24cc106aaaa8149ae1eaae6fe31b5901b2537a821b84bf26a34a756305822d5080603d8881bcc4cdbceb36f537bca31a59e678458d6cacf1ed4fa6cf442ffacf754}"
+        apiKind="REST"
+        connectedWhen="email"
+        email="summitlabuser2017@adobe.com"
+        recommendationsEnabled="false">
+        <recommendations
+            jcr:primaryType="nt:unstructured"
+            enableFeed="{Boolean}false"
+            overrideExternalizer="{Boolean}false"
+            recsFeedId="-1"/>
+        <public
+            jcr:primaryType="nt:unstructured"
+            accurateTargeting="{Boolean}false"
+            clientcode="aemlabsummit2017"
+            clientlib="mboxjs"
+            useDtm="{Boolean}true"/>
+        <segmentsPollConfig
+            jcr:mixinTypes="[cq:PollConfig]"
+            jcr:primaryType="nt:unstructured"
+            enabled="true"
+            interval="{Long}60"
+            source="adobe-target-segments:/etc/cloudservices/testandtarget/summit2017-target-config"
+            target="/etc/segmentation/adobe-target/aemlabsummit2017"/>
+        <accountOptionsUpdatePollConfig
+            jcr:mixinTypes="[cq:PollConfig]"
+            jcr:primaryType="nt:unstructured"
+            enabled="false"
+            interval="{Long}86400"
+            source="adobe-target-account-options:/etc/cloudservices/testandtarget/summit2017-target-config"
+            target="/etc/cloudservices/testandtarget/summit2017-target-config"/>
+    </jcr:content>
+    <summit2017-target-framework/>
+</jcr:root>

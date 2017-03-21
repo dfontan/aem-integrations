@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:lastModified="{Date}2016-01-11T22:26:16.038+01:00"
+    jcr:lastModifiedBy="admin"
+    jcr:mixinTypes="[mix:lastModified]"
+    jcr:primaryType="nt:unstructured"
+    jcr:title="Donations"
+    sling:resourceType="/libs/granite/contexthub/cloudsettings/components/basestore"
+    configjson="\{ &#xd;&#xa;   &quot;service&quot;: { &#xd;&#xa;      &quot;jsonp&quot;: false, &#xd;&#xa;      &quot;timeout&quot;: 1000, &#xd;&#xa;      &quot;secure&quot;: false, &#xd;&#xa;      &quot;synchronous&quot;: true,&#xd;&#xa;      &quot;path&quot;: &quot;/bin/donation/data.json&quot;&#xd;&#xa;   } &#xd;&#xa;}"
+    enabled="{Boolean}true"
+    required="{Boolean}true"
+    storeType="contexthub.generic-jsonp"/>

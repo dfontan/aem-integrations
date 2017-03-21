@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    
+    <filter root="/content/we-retail/us/en/make-a-donation"/>
+    <filter root="/content/we-retail/us/en/thank-you"/>
+    <filter root="/content/dam/we-retail/en/summit2017"/>
+    <filter root="/content/we-retail/jcr:content"/>    
+    <filter root="/content/campaigns/we-retail/master/known-donor-v-v1"/>
+    <filter root="/home/users/weretail"/>
+   
+</workspaceFilter>

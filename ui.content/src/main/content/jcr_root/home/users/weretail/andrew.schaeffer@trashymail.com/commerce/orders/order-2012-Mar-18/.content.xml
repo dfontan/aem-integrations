@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="nt:unstructured"
+    cartItems="[/content/geometrixx-outdoors/en/equipment/hiking/cuzco/jcr:content/par/product/eqsmcz_2;1]"
+    cartSubtotal="{Decimal}210"
+    currencyCode="USD"
+    orderId="f4a08171-d52d-4121-9fb6-c7d8b0d54419"
+    orderPlaced="{Date}2012-03-18T09:10:59.147Z"
+    orderShipping="{Decimal}0.00"
+    orderTotalPrice="{Decimal}222.60"
+    orderTotalTax="{Decimal}12.60"
+    trackingNumber="1105153436611418684419"
+    trackingUrl="https://tools.usps.com/go/TrackConfirmAction_input?strOrigTrackNum=1105153436611418684419"
+    vouchers="[]">
+    <order-details
+        jcr:primaryType="nt:unstructured"
+        billing.city="Breckenridge"
+        billing.country="US"
+        billing.firstname="Andrew"
+        billing.lastname="Schaeffer"
+        billing.state="CO"
+        billing.street1="19 Ridge St"
+        billing.zip="40242"
+        paymentToken="faux-payment-token"
+        shipping-option="ground"
+        shipping.city="Breckenridge"
+        shipping.country="US"
+        shipping.firstname="Andrew"
+        shipping.lastname="Schaeffer"
+        shipping.state="CO"
+        shipping.street1="19 Ridge St"
+        shipping.zip="40242"/>
+</jcr:root>

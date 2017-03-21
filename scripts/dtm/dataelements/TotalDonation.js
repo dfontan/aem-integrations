@@ -1,0 +1,1 @@
+return ContextHub.get("/donation/total");

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:lastModified="{Date}2016-01-11T22:30:46.574+01:00"
+    jcr:lastModifiedBy="admin"
+    jcr:mixinTypes="[mix:lastModified,sling:HierarchyNode]"
+    jcr:primaryType="nt:unstructured"
+    jcr:title="Donations"
+    sling:resourceType="/libs/granite/contexthub/cloudsettings/components/baseuimodule"
+    configjson="\{ &#xd;&#xa;   &quot;icon&quot;: &quot;coral-Icon--money&quot;, &#xd;&#xa;   &quot;title&quot;: &quot;Donations&quot;, &#xd;&#xa;   &quot;storeMapping&quot;: { &quot;p&quot;: &quot;donation&quot; }, &#xd;&#xa;   &quot;clickable&quot;: true,&#xd;&#xa;   &quot;editable&quot;: { &quot;key&quot;: &quot;/donation&quot; },&#xd;&#xa;   &quot;listType&quot;: &quot;input&quot;,&#xd;&#xa;   &quot;list&quot;: &quot;/donation&quot;,&#xd;&#xa;   &quot;template&quot;: &quot;&lt;p>Donations&lt;/p>&lt;p>{{p.total}} $&lt;/p>&quot;&#xd;&#xa;}"
+    enabled="{Boolean}true"
+    moduleType="contexthub.base"/>

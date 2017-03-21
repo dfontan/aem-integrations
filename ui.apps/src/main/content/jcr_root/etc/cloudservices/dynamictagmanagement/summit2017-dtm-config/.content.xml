@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:cloudservicename="dynamictagmanagement"
+        cq:lastModified="{Date}2017-02-18T06:15:20.728+11:00"
+        cq:lastModifiedBy="admin"
+        cq:template="/libs/cq/dtm/templates/dynamictagmanagement"
+        jcr:lastModified="{Date}2017-02-18T06:15:20.723+11:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="summit2017-dtm-config"
+        sling:resourceType="cq/dtm/components/dynamictagmanagementpage"
+        company="4f42050b7e18aff70e7195528c1eee00e0aa517a"
+        companyDisplayValue="aemlabsummit2017"
+        productionDownloadWorkflow="/etc/workflow/models/cloudservices/DTM_bundle_download/jcr:content/model"
+        property="32b44ce918a35d16dfdced886b676df7fc73d86c"
+        propertyDisplayValue="Summit 2017 - Varun"
+        stagingDownloadWorkflow="/etc/workflow/models/cloudservices/DTM_bundle_download/jcr:content/model"
+        token="\{f72074e0a6bdb671738b2cef1c5832346a126b3bba9c5c92f54c2e5ea3785bb4433272f5c2c0261ac299d51a7cc5954d420102282677f36ec066666d3e704caa}">
+        <public
+            jcr:primaryType="nt:unstructured"
+            productionFooterCode="&lt;script type=&quot;text/javascript&quot;>_satellite.pageBottom();&lt;/script>"
+            productionHeaderCode="&lt;script src=&quot;//assets.adobedtm.com/4f42050b7e18aff70e7195528c1eee00e0aa517a/satelliteLib-32b44ce918a35d16dfdced886b676df7fc73d86c.js&quot;>&lt;/script>"
+            stagingFooterCode="&lt;script type=&quot;text/javascript&quot;>_satellite.pageBottom();&lt;/script>"
+            stagingHeaderCode="&lt;script src=&quot;//assets.adobedtm.com/4f42050b7e18aff70e7195528c1eee00e0aa517a/satelliteLib-32b44ce918a35d16dfdced886b676df7fc73d86c-staging.js&quot;>&lt;/script>"/>
+    </jcr:content>
+</jcr:root>

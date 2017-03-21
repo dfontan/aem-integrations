@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:template="/libs/cq/personalization/templates/segment"
+        jcr:description="--"
+        jcr:primaryType="nt:unstructured"
+        jcr:title="Big Donor-1487325357934"
+        sling:resourceType="cq/personalization/components/segmentpage"
+        cloudConfigurationPath="/etc/cloudservices/testandtarget/summit2017-target-config"
+        editURL="https://aemlabsummit2017.marketing.adobe.com/content/mac/aemlabsummit2017/target/audiences.html#edit/big_donor"
+        hidden="{Boolean}false"
+        source="tnt"
+        sourceProductName="Adobe Target"
+        type="reusable">
+        <traits
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="cq/personalization/components/traits/logic/and">
+            <andpar
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <tandt
+                    jcr:primaryType="nt:unstructured"
+                    jcr:title="Big Donor-1487325357934"
+                    sling:resourceType="cq/personalization/components/traits/tandt"
+                    externalId="1142857"/>
+            </andpar>
+        </traits>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:deviceGroups="[/etc/mobile/groups/responsive]"
+        cq:template="/conf/we-retail/settings/wcm/templates/donation-thank-you-page"
+        jcr:primaryType="cq:PageContent"
+        sling:resourceType="weretail/components/structure/page">
+        <cq:responsive jcr:primaryType="nt:unstructured">
+            <breakpoints jcr:primaryType="nt:unstructured">
+                <phone
+                    jcr:primaryType="nt:unstructured"
+                    title="Smaller Screen"
+                    width="{Long}650"/>
+                <tablet
+                    jcr:primaryType="nt:unstructured"
+                    title="Tablet"
+                    width="{Long}1200"/>
+            </breakpoints>
+        </cq:responsive>
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/responsivegrid">
+            <header
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="weretail/components/structure/header"/>
+            <title
+                jcr:lastModified="{Date}2016-01-12T19:38:18.957+01:00"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="Thank you!"
+                sling:resourceType="weretail/components/content/title"
+                editable="{Boolean}true"/>
+            <image
+                jcr:created="{Date}2016-01-12T16:21:30.557+01:00"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2016-01-26T11:35:29.126+01:00"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/image"
+                editable="{Boolean}true"
+                fileReference="/content/dam/summitaemintegrationlab/Holdingwaterincuppedhands_headline.jpg"/>
+            <text
+                jcr:created="{Date}2016-01-14T09:05:48.463+01:00"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2016-01-14T09:05:54.131+01:00"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/text"
+                editable="{Boolean}true"
+                text="&lt;p>Thank you for your donation.&lt;br>&#xa;&lt;/p>&#xa;"
+                textIsRich="true"/>
+        </root>
+    </jcr:content>
+</jcr:root>

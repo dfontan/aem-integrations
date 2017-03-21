@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+
+
+    <filter root="/apps/weretail/components/structure/header"/>
+    <filter root="/apps/weretail/components/structure/page"/>
+    <filter root="/apps/weretail/components/content/donate"/>
+	<filter root="/apps/summitaemintegrationlab/install"/>
+	
+    <filter root="/etc/cloudsettings/default/contexthub/donation"/>
+    <filter root="/etc/cloudsettings/default/contexthub/persona/donation"/>
+    
+<!--     <filter root="/etc/cloudservices/dynamictagmanagement/summit2017-dtm-config"/> -->
+<!--     <filter root="/etc/cloudservices/testandtarget/summit2017-target-config"/> -->
+<!--     <filter root="/etc/cloudservices/testandtarget/adobeintaemlab2016"/> -->
+<!--     <filter root="/etc/cloudservices/sitecatalyst/summit2017-analytics-config"/> -->
+
+    <filter root="/conf/we-retail/settings/wcm/templates/donation-home-page"/>
+    <filter root="/conf/we-retail/settings/wcm/templates/donation-thank-you-page"/>
+   
+<!--     <filter root="/etc/segmentation/adobe-target/aemlabsummit2017"/> -->
+    
+<!--     <filter root="/etc/segmentation/adobe-target/adobeintaemlab2016"/> -->
+</workspaceFilter>

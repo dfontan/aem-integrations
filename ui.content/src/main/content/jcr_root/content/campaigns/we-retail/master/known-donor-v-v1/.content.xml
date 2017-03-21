@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:authorExternalId="163189"
+        cq:cloudserviceconfigs="/etc/cloudservices/testandtarget/summit2017-target-config"
+        cq:lastModified="{Date}2017-02-18T08:22:53.024+11:00"
+        cq:lastModifiedBy="admin"
+        cq:targetEngine="tnt"
+        cq:template="/libs/cq/personalization/templates/campaign"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Known-Donor-V-V1"
+        sling:resourceType="cq/personalization/components/campaignpage"
+        campaignType="landingPage"
+        lastSyncError=""
+        priority="1">
+        <par
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys"/>
+        <cq:ActivitySettings
+            jcr:primaryType="nt:unstructured"
+            experienceLocalIdCounter="{Long}2"
+            metricsJson="\{&quot;goals&quot;:{&quot;metrics&quot;:[{&quot;title&quot;:&quot;MY PRIMARY GOAL&quot;,&quot;postGoalSuccessAction&quot;:&quot;incrementCountKeepUser&quot;,&quot;type&quot;:&quot;engagement&quot;,&quot;worth&quot;:&quot;&quot;,&quot;engagementType&quot;:&quot;pageViews&quot;,&quot;metricLocalId&quot;:10,&quot;action&quot;:&quot;&quot;,&quot;matcher&quot;:&quot;exact&quot;,&quot;constraints&quot;:[]}]}}">
+            <locations jcr:primaryType="nt:unstructured">
+                <_x0031_d940e9b-4631-478c-9fa6-f0b23940bb7b
+                    cq:authorExternalId="{Long}1"
+                    jcr:primaryType="nt:unstructured"/>
+                <_x0038_dbfc83a-7e80-403b-ab11-3424c93f5e4a
+                    cq:authorExternalId="{Long}0"
+                    jcr:primaryType="nt:unstructured"/>
+            </locations>
+        </cq:ActivitySettings>
+    </jcr:content>
+    <small-donor/>
+    <big-donor/>
+</jcr:root>
